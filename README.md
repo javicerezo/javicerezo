@@ -9,7 +9,7 @@ Licenciado en ingeniería Industrial y jr. Frontend Developer a tiempo completo.
 </div>  
  
 
-### Sobre mí:  
+## Sobre mí:  
 📚Titulado en ingeniería industrial por la Universidad de Granada en 2012, con la especialidad en química industrial.
 
 🛑En 2020, dejé todo lo relacionado con la química para dedicarme de lleno a la programación. Todo empezó con el curso "Analista-programador de aplicaciones en desarrollo Java-Python", con el instituto Intecssa Formación, al cual, he seguido formándome con varios cursos en Udemy. 
@@ -18,9 +18,9 @@ Actualmente estoy más centrado en el Frontend y, más importante aún, en escri
 Actualmente, busco desafíos donde pueda demostrar mis conocimientos, poner a prueba mis habilidades y seguir creciendo.  
 
 
-## Tecnologías: 
+## Tecnologías que uso: 
 ### Frontend  
-<div align="center">  
+<div align="left">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
@@ -29,7 +29,7 @@ Actualmente, busco desafíos donde pueda demostrar mis conocimientos, poner a pr
 <a href="https://gulpjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gulp-plain.svg" alt="gulp.js" height="25" /></a>  
 
 ### Backend  
-<div align="center">  
+<div align="left">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
