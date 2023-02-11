@@ -1,4 +1,4 @@
-### <div align="center">Hola, mi nombre es Javi Cerezo.  👋</div>  
+### <div align="left">Hola, mi nombre es Javi Cerezo.  👋</div>  
   
 
 Licenciado en ingeniería Industrial y jr. Frontend Developer a tiempo completo. 🚀  
@@ -39,9 +39,11 @@ Actualmente, busco desafíos donde pueda demostrar mis conocimientos, poner a pr
 </div>
 
 </td><td valign="top" width="33%">
+  
+</td></tr></table>
 
-<br/> 
-
+<table><tr><td valign="top" width="33%">
+  
 ### Backend  
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
