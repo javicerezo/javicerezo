@@ -8,6 +8,7 @@ Licenciado en ingeniería Industrial y jr. Frontend Developer a tiempo completo.
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 25%" />
 </div>  
  
+ [![Original website](https://img.shields.io/static/v1?label=&message=Original%20Site&color=4d94b3&style=for-the-badge)](https://javicerezo.netlify.app/)
 
 ## Sobre mí:  
 📚Titulado en ingeniería industrial por la Universidad de Granada en 2012, con la especialidad en química industrial.
@@ -39,7 +40,7 @@ Actualmente, busco desafíos donde pueda demostrar mis conocimientos, poner a pr
 
 
 ## Encuéntrame en:
-<a href="https://javicerezo.netlify.app/" target="_blank">
+<a href="" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>   
 <a href="https://github.com/javicerezo" target="_blank">
