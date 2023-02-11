@@ -8,7 +8,7 @@ Licenciado en ingeniería Industrial y jr. Frontend Developer a tiempo completo.
  
 
 [![Original website](https://img.shields.io/static/v1?label=&message=Original%20Site&color=4d94b3&style=for-the-badge)](https://javicerezo.netlify.app/)
-[![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)]([https://www.linkedin.com/in/eduardofierropro](https://linkedin.com/in/javicerezo))
+[![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/javicerezo)
 [![github](https://img.shields.io/static/v1?label=&message=github&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/javicerezo)
 
 ## Sobre mí:  
