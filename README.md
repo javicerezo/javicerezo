@@ -23,7 +23,7 @@ Actualmente, busco desafíos donde pueda demostrar mis conocimientos, poner a pr
 <br/>  
 
 
-## My Skill Set  
+## Tecnologías: 
 <table><tr><td valign="top" width="33%">
 
 
@@ -40,7 +40,7 @@ Actualmente, busco desafíos donde pueda demostrar mis conocimientos, poner a pr
 
 </td><td valign="top" width="33%">
 
-
+<br/> 
 
 ### Backend  
 <div align="center">  
@@ -59,7 +59,6 @@ Actualmente, busco desafíos donde pueda demostrar mis conocimientos, poner a pr
 
 <br/>  
 
-
 ## Encuéntrame en:  
 <a href="https://github.com/javicerezo" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -68,5 +67,4 @@ Actualmente, busco desafíos donde pueda demostrar mis conocimientos, poner a pr
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
   
-
 <br/>  
