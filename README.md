@@ -8,7 +8,7 @@
 
 ## Sobre mí:  
 📚Titulado en ***ingeniería industrial*** por la Universidad de Granada en 2012, con la especialidad en química industrial.
-📚Técnico superior en ***desarrollo de aplicaciones multiplataforma*** (terminando actualmente).
+📚Técnico superior en ***desarrollo de aplicaciones multiplataforma***.
 
 🛑En 2020, dejé todo lo relacionado con la química para dedicarme de lleno a la programación. Todo empezó con el curso "Analista-programador de aplicaciones en desarrollo Java-Python", con el instituto Intecssa Formación, al cual, he seguido formándome con varios cursos en Udemy (desarrollo web front-end, desarrollo de app’s para Android, desarrollo de juegos con Unity), y ahora mismo, estoy terminando el ciclo formativo superior de desarrollo de aplicaciones multiplataforma (DAM).
 
