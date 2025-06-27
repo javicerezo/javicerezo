@@ -7,7 +7,8 @@
 [![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/javicerezo)
 
 ## Sobre mí:  
-📚Titulado en ***ingeniería industrial*** por la Universidad de Granada en 2012, con la especialidad en química industrial.
+📚Titulado en ***ingeniería industrial*** por la Universidad de Granada en 2013, con la especialidad en química industrial.
+
 📚Técnico superior en ***desarrollo de aplicaciones multiplataforma***.
 
 🛑En 2022, decidí tomarme un descanso profesional para dedicarme de lleno al desarrollo de software. Todo empezó con el curso de "Analista-programador de aplicaciones en desarrollo Java-Python y C++" (520 horas) a través del instituto Intecssa Formación, al cual, he seguido formándome con varios cursos en Udemy, los más importantes han sido: desarrollo web front-end (50 horas), desarrollo de app’s para Android (67 horas) y desarrollo de juegos con Unity (12 horas), y por último he completado en a penas un año el ciclo de formación profesional superior de Desarrollo de Aplicaciones Multiplataforma (DAM).
