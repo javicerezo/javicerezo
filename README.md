@@ -10,11 +10,12 @@
 📚Titulado en ***ingeniería industrial*** por la Universidad de Granada en 2012, con la especialidad en química industrial.
 📚Técnico superior en ***desarrollo de aplicaciones multiplataforma***.
 
-🛑En 2020, dejé todo lo relacionado con la química para dedicarme de lleno a la programación. Todo empezó con el curso "Analista-programador de aplicaciones en desarrollo Java-Python", con el instituto Intecssa Formación, al cual, he seguido formándome con varios cursos en Udemy (desarrollo web front-end, desarrollo de app’s para Android, desarrollo de juegos con Unity), y ahora mismo, estoy terminando el ciclo formativo superior de desarrollo de aplicaciones multiplataforma (DAM).
+🛑En 2022, decidí tomarme un descanso profesional para dedicarme de lleno al desarrollo de software. Todo empezó con el curso de "Analista-programador de aplicaciones en desarrollo Java-Python y C++" (520 horas) a través del instituto Intecssa Formación, al cual, he seguido formándome con varios cursos en Udemy, los más importantes han sido: desarrollo web front-end (50 horas), desarrollo de app’s para Android (67 horas) y desarrollo de juegos con Unity (12 horas), y por último he completado en a penas un año el ciclo de formación profesional superior de Desarrollo de Aplicaciones Multiplataforma (DAM).
 
 Le doy mucha importancia al código sostenible y a la documentanción del código.
 
 Busco proyectos donde pueda demostrar mis conocimientos, poner a prueba mis habilidades y seguir creciendo. 
+
 
 ## Tecnologías que uso: 
 ### Frontend  
